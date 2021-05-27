@@ -84,7 +84,8 @@ figcaption {
 /* Slideshow container */
 .slideshow-container {
   min-width: 1250px;
-  position: absolute;
+  position: relative;
+  left: 50%
   /* margin: auto; */
 }
 

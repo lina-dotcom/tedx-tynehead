@@ -86,7 +86,14 @@ figcaption {
   min-width: 1250px;
   position: relative;
   left: 50%
+    margin: auto;
   /* margin: auto; */
+}
+
+.slideshow-buttons {
+  position:relative;
+  left:50%
+    margin: auto;
 }
 
 
